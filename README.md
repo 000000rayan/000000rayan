@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm RAYAN 👋
 
 I am an engineering student specializing in **Automation and Control Engineering**, with a strong focus on embedded systems, non-linear control, and real-time data-driven systems. I enjoy building practical, application-driven solutions that bridge classical mathematical control theory with modern engineering tools.
 
